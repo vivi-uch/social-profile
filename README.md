@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](design\Screenshot (6).png)
-
+![](design/Screenshot (6).png)
 
 ### Links
 
